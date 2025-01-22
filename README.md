@@ -1,5 +1,5 @@
 # lec-anonymization-som
-Datasets for **Local Energy Communities** and code for **k-anonymization** and **training/visualization of Self-Organizing maps**.
+Datasets for **Local Energy Communities** and source code for *k-anonymization* and *application/visualization of Self-Organizing maps in LECs*.
 
 This repository includes the source code and input/output datasets for the research article entitled 
 "*Data anonymization and aggregation approaches for local energy communities*", 
@@ -10,8 +10,8 @@ accompanied with the python source code.
 The source code is provided with an [Apache License, version 2.0](https://github.com/gpiperagkas/lec-anonymization-som/blob/main/LICENSE).
 
 The application includes two functionalities, a [Flask](https://github.com/pallets/flask) app exposing an anonymized dataset in JSON format, using an 
-implementation of k-anonymization Mondrian multidimensional partitioning, with suppression and generalization for datasets, and 
-a data aggregation approach with training of Self-organizing maps for visualizing datasets. [MiniSom](https://github.com/JustGlowing/minisom) 
+implementation of **k-anonymization with Mondrian multidimensional partitioning, with suppression and generalization** for datasets, and 
+a data aggregation approach with training of **Self-organizing maps for visualizing datasets**. [MiniSom](https://github.com/JustGlowing/minisom) 
 open source software package is used for training SOMs. 
 
 Three main scenarios are included: (i)A local energy community with 60 metering devices and energy-related variables for k-anonymization, for 
