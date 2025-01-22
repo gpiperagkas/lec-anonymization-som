@@ -20,6 +20,10 @@ a scenario of SOM training for a LEC with generated electric power consumption d
 For visualization purposes, multiple figures are exported for each trained SOM, with clustering of nodes, for intensity maps, heatmaps, 
 U-matrices.
 
+The app can be tested using 
+python src/main.py <option> 
+where <option> to be replaced with "anonymization" or "som" for each functionality.
+
 Insights and parts of this code have been supported by LLMs.
 
 The source code is provided with an Apache License, version 2.0.
