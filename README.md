@@ -12,9 +12,9 @@ implementation of k-anonymization Mondrian multidimensional partitioning, with s
 a data aggregation approach with training of Self-organizing maps for visualizing datasets. MiniSom open source software package is 
 used for training SOMs. 
 
-Two main scenarios are included: A local energy community with 60 metering devices and energy-related variables for k-anonymization, 
-accompanied with SOM training of a LEC generated dataset for 30 days, including energy-related variables and sensor-data, and 
-training of a SOM for one metering device, i.e. residential scenario, for 30 days.
+Three main scenarios are included: A local energy community with 60 metering devices and energy-related variables for k-anonymization, 
+a scenario of SOM training for a LEC with generated electric power consumption dataset for 30 days, and 
+training of a SOM for one metering device, i.e. residential scenario, for 30 days, including energy-related variables and sensor-data.
 
 For visualization purposes, multiple figures are exported for each trained SOM, with clustering of nodes, for intensity maps, heatmaps, 
 U-matrices.
