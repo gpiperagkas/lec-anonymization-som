@@ -27,7 +27,7 @@ The app can be tested using
 python src/main.py <option>
 ```
 where *option* to be replaced with "anonymization" or "som" for each functionality. 
-All required python libraries can be installed with  ```pip install <package>``` or using anaconda repositories.
+All required python libraries can be installed with  ```pip install <package>``` or by using anaconda repositories.
 
 Insights and parts of this code have been supported by LLMs.
 
