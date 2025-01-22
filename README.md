@@ -13,8 +13,9 @@ a data aggregation approach with training of Self-organizing maps for visualizin
 used for training SOMs. 
 
 Three main scenarios are included: A local energy community with 60 metering devices and energy-related variables for k-anonymization, 
-a scenario of SOM training for a LEC with generated electric power consumption dataset for 30 days, and 
-training of a SOM for one metering device, i.e. residential scenario, for 30 days, including energy-related variables and sensor-data.
+training of a SOM for one metering device, i.e. residential scenario, for 30 days, including energy-related variables and sensor-data, and
+a scenario of SOM training for a LEC with generated electric power consumption dataset for 30 days.
+
 
 For visualization purposes, multiple figures are exported for each trained SOM, with clustering of nodes, for intensity maps, heatmaps, 
 U-matrices.
