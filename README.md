@@ -22,4 +22,4 @@ U-matrices.
 
 Insights and parts of this code have been supported by LLMs.
 
-The source code is provided under an Apache License, version 2.0.
+The source code is provided with an Apache License, version 2.0.
