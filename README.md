@@ -11,8 +11,8 @@ The source code is provided with an [Apache License, version 2.0](https://github
 
 The application includes two functionalities, a Flask app exposing an anonymized dataset in JSON format, using an 
 implementation of k-anonymization Mondrian multidimensional partitioning, with suppression and generalization for datasets, and 
-a data aggregation approach with training of Self-organizing maps for visualizing datasets. MiniSom open source software package is 
-used for training SOMs. 
+a data aggregation approach with training of Self-organizing maps for visualizing datasets. [MiniSom](https://github.com/JustGlowing/minisom) 
+open source software package is used for training SOMs. 
 
 Three main scenarios are included: (i)A local energy community with 60 metering devices and energy-related variables for k-anonymization, for 
 one day, (ii) training of a SOM for one metering device, i.e. residential scenario, for 30 days, including energy-related variables and sensor-data, 
