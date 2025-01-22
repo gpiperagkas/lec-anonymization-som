@@ -21,7 +21,7 @@ For visualization purposes, multiple figures are exported for each trained SOM, 
 U-matrices.
 
 The app can be tested using 
-python src/main.py <option> 
+-- python src/main.py <option> --
 where <option> to be replaced with "anonymization" or "som" for each functionality.
 
 Insights and parts of this code have been supported by LLMs.
