@@ -2,7 +2,7 @@
 Datasets for **Local Energy Communities** and code for **k-anonymization** and **training/visualization of Self-Organizing maps**.
 
 This repository includes the source code and input/output datasets for the research article entitled 
-"Data anonymization and aggregation approaches for local energy communities", 
+"*Data anonymization and aggregation approaches for local energy communities*", 
 submitted for publication in ACM Energy Informatics Review.
 For transparency, reproducibility and experimentation, all datasets that were used/exported in the paper are included, 
 accompanied with the python source code. 
