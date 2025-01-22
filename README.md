@@ -1,5 +1,5 @@
 # lec-anonymization-som
-Datasets for **Local Energy Communities** and code for **k-anonymization** and **training/visualization of Self-Organizing maps**
+Datasets for **Local Energy Communities** and code for **k-anonymization** and **training/visualization of Self-Organizing maps**.
 
 This repository includes the source code and input/output datasets for the research article entitled 
 "Data anonymization and aggregation approaches for local energy communities", 
