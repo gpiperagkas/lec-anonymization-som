@@ -111,7 +111,7 @@ def mondrian_median(data, k, current_column_index):
 @mondrian.route('/')
 def runapp():
   # Input data
-  # Input data generation with random distributions, for each vairable selected.
+  # Input data generation with random distributions, for each variable selected.
   # Categorical variables are not assumed in the experimentation, but can be added.
   energy_data = {
       "energy_consumption": np.random.normal(80, 20, 60),  # Reduced average consumption
